@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CalculaTuSueldo</string>
+    <string name="action_settings">Ajustes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_money">Introduce tu sueldo</string>
+    <string name="description">Es una aplicación sencilla donde podrás comprobar el salario neto mensual, pagas extras y retenciones que se aplicarán sobre tu salario bruto anual.</string>
+    <string name="money">Introduce el sueldo anual</string>
+    <string name="n_payments">Selecione el numero de pagas</string>
+    <string name="s_irpf">Introduce el irpf. Formato: 10.86</string>
+    <string name="s_calculate">Calcular</string>
+    <string-array name="payments">
+        <item>12</item>
+        <item>14</item>
+    </string-array>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Results -->
+    <string name="thankyou">Muchas gracias!</string>
+    <string name="description_thankyou">Ahora voy a intentar explicarte los resultados</string>
+    <string name="sueldo_anual">Sueldo anual</string>
+    <string name="irpf">Irpf</string>
+    <string name="impuestos_sociales">Impuestos sociales</string>
+    <string name="ingresos_mensuales">Ingresos mensuales</string>
+    <string name="paga_extra">Paga extra</string>
+</resources>
